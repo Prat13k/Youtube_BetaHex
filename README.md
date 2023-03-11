@@ -1,5 +1,5 @@
 # Youtube_BetaHex
-This repository contains the Code files from the youtube channel of BetaHex. If you want you can watch all his videos on his youtube channel
+This repository contains the Code files from the youtube channel of BetaHex. If you want you can watch all his videos on his youtube channel.
 
 I completed all this projects for practice purpose. you can find all the projects on Yotube @Betahex with proper explanation.
 
